@@ -20,9 +20,11 @@ public class HashMapExample {
         map1.put(103,"Orange"); // banana is removed and orange is updated
         System.out.println("map1 is : "+map1);
 
+
+        // added lines
+        // added lines
         map1.remove(104);
         System.out.println("map1 after removing 104 key : "+map1);
-
         // traversing
         System.out.println("travering map");
         for(Map.Entry m1: map1.entrySet()){

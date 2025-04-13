@@ -12,11 +12,11 @@ public class ArrayListExample {
 //        Integer b=200;
 //        int d=null; - not possible
 //        Integer c = null;
-
+        // added lines
+        // added lines
 
         //defining the arraylist
         List<Integer> list1 = new ArrayList<>();
-
         // adding or inserting data
         list1.add(23);
         list1.add(12);
